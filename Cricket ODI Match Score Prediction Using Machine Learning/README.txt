@@ -1,2 +1,2 @@
-Download ODI dataset and keep this in 'Score Prediction Model' folder.
+Download ODI dataset, rename the folder to 'odi_dataset' and keep this in 'Score Prediction Model' folder.
 After running the model, there will be 2 pkl files will be generated, don't forget to copy-paste 'XGBRegressor' pkl file in both 'Deploy' folders.
