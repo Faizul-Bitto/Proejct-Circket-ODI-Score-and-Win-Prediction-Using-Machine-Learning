@@ -12,7 +12,7 @@ Key Features:
 - Best Model Selection: XGBRegressor identified as the most effective model for this task.
 - App Deployment: Development of a user-friendly mobile application using Flask and Flutter framework for real-time predictions.
 
-  Algorithms Used:
+Algorithms Used:
   - XGBRegressor : Achieved the highest accuracy among the evaluated models.
   - Lasso Regression
   - Ridge Regression
