@@ -21,5 +21,5 @@ Algorithms Used:
   - LGBM
   - Linear Regression
 
-  Usage:
-  The repository includes Jupyter notebooks for data exploration, feature engineering, and model training. The main application can be run to provide real-time predictions for ODI matches.
+Usage:
+The repository includes Jupyter notebooks for data exploration, feature engineering, and model training. The main application can be run to provide real-time predictions for ODI matches.
