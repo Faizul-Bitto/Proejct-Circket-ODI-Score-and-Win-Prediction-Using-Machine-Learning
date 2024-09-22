@@ -1,2 +1,2 @@
-1.    https://cricsheet.org/downloads/all.zip
-2.    https://cricsheet.org/downloads/odis.zip
+1.    For all formats : https://cricsheet.org/downloads/all.zip
+2.    For only ODI format : https://cricsheet.org/downloads/odis.zip
