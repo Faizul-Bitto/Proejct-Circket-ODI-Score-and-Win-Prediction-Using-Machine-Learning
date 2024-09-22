@@ -22,4 +22,4 @@ Algorithms Used:
   - Linear Regression
 
 Usage:
-The repository includes Jupyter notebooks for data exploration, feature engineering, and model training. The main application can be run to provide real-time predictions for ODI matches.
+The repository includes Jupyter notebooks for data exploration, feature engineering, and model training. The main application can be run to provide real-time predictions for ODI matches. Running model and application guidelines are provided inside 'Cricket ODI Score and Win Prediction Using Machine Learning' folder's 'README.txt' file.
