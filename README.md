@@ -1,6 +1,15 @@
 <h1 align="center" id="title">🌐 Cricket ODI Score and Win Prediction Using Machine Learning 🚀</h1>
 </br></br>
 
+<p
+  
+This repository contains the code and resources for predicting scores and win probabilities in One Day International (ODI) cricket matches using advanced machine learning techniques. The project leverages various regression algorithms to analyze and predict match outcomes based on historical data and match conditions.
+
+The primary objective of this project is to develop a robust machine learning model that can accurately predict the scores and win probabilities for ODI cricket matches. The model takes into account several features, including team statistics, venue details, toss outcomes, and other match-specific conditions.
+
+</p>
+</br></br>
+
 <p 
 
 Machine learning algorithms implemented in this project:
