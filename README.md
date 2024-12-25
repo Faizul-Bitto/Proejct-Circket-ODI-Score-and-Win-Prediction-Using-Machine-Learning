@@ -10,6 +10,8 @@ The primary objective of this project is to develop a robust machine learning mo
 </p>
 </br></br>
 
+<h2>🛠️ Algorithms Used</h2>
+
 <p 
 
 Machine learning algorithms implemented in this project:
@@ -30,6 +32,8 @@ Machine learning algorithms implemented in this project:
 
 </p>
 </br></br>
+
+<h2>📏 Evaluation Metrics</h2>
 
 <p 
 
@@ -83,6 +87,12 @@ Follow these steps to use the project:
 - Build and deploy the Flutter application for real-time predictions.
 
 </br>
+
+I welcome contributions! Feel free to fork the repository and submit pull requests. Let's make this project even better together. 🤝
+
+</br>
+
+</p>
 
 I welcome contributions! Feel free to fork the repository and submit pull requests. Let's make this project even better together. 🤝
 </p>
