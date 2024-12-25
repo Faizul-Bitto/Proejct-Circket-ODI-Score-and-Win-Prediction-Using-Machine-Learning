@@ -88,11 +88,6 @@ Follow these steps to use the project:
 
 </br>
 
-I welcome contributions! Feel free to fork the repository and submit pull requests. Let's make this project even better together. 🤝
-
-</br>
-
-</p>
 
 I welcome contributions! Feel free to fork the repository and submit pull requests. Let's make this project even better together. 🤝
 </p>
