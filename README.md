@@ -59,7 +59,7 @@ Here're some of the project's best features:
 *   ✅ Win Probability: Determine the likelihood of a team's victory.
 *   ✅ Advanced Algorithms: Utilizes multiple regression models to achieve high accuracy.
 *   ✅ Real-Time Predictions: User-friendly mobile app for predictions on the go.
-</br></br>
+</br></br></br>
   
   
 <h2>💻 Built with</h2>
@@ -72,7 +72,7 @@ Technologies used in the project:
 *   Jupyter Notebook: For exploratory data analysis and model development. 📘
 *   Scikit-learn XGBoost CatBoost LightGBM: For machine learning algorithms. 🤖
 
-</br></br>
+</br></br></br>
 
 <p
 
