@@ -72,7 +72,7 @@ Technologies used in the project:
 *   Jupyter Notebook: For exploratory data analysis and model development. 📘
 *   Scikit-learn XGBoost CatBoost LightGBM: For machine learning algorithms. 🤖
 
-</br></br></br>
+</br></br>
 
 <p
 
